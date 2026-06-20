@@ -1,4 +1,4 @@
-name: Hello World
+name: Manohar Javvadi
 on: workflow_dispatch
 jobs:
   hello:
