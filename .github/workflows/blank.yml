@@ -1,5 +1,5 @@
-name: Manohar Javvadi
-on: workflow_dispatch
+name: Purnendra Sai
+on: push
 jobs:
   hello:
     runs-on: ubuntu-latest
